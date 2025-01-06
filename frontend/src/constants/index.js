@@ -1,8 +1,8 @@
 export const navigation = [
   {
     id: "0",
-    title: "Features",
-    url: "#features",
+    title: "Why Choose Us",
+    url: "#choice",
   },
   {
     id: "1",
@@ -11,24 +11,17 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "How to use",
-    url: "#how-to-use",
-  },
-  {
-    id: "3",
     title: "Roadmap",
     url: "#roadmap",
   },
   {
-    id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
+    id: "3",
+    title: "About Us",
+    url: "#about",
   },
   {
-    id: "5",
+    id: "4",
     title: "Sign in",
     url: "#login",
-    onlyMobile: true,
   },
 ];
